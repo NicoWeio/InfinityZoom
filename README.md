@@ -70,6 +70,7 @@ Furthermore, we fade out the inner image while we zoom away from it.
 > 🛈 This could use some fine-tuning.
 
 ## Links & Credits
+- Only now did I find out about https://dalletools.art/zoom-animation – a website that does pretty much the same thing, but with a nice graphical user interface. ✨
 - There's a neat tutorial on YouTube that shows how to do what this program does using Photoshop and After Effects: https://www.youtube.com/watch?v=tux81Z3uXMY
 - Thanks to OpenAI for making DALL·E 2 available. 💛💙💚❤️💜
 - Thanks to Grant Sanderson (3Blue1Brown) and the Manim community. 💙💙💙🤎
